@@ -3,13 +3,14 @@
 
 - ✨ I’m interested in working on new projects as a fresh fullstack dev 
 - 🌱 I’m currently working on my own projects 
+- 💻  Worked on two web sites: https://apolo-coworking.herokuapp.com/ and https://www.booksociety.me/
 - 🤓 I keep learning new tools while practicing a lot
 - 🙌 I love to collaborate with amazing people
 - ⚡ Fun fact: I am also a yoga teacher 🧘‍♀️ it helps to get a better focus on my code
 - 🙋‍♀️ Pronouns: she/her
 
 <!--
-**Audrey-hello/Audrey-hello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Audrey-hello/Audrey-hello** is a ✨ _special_ ✨ repository because its `README‧md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
