@@ -1,13 +1,13 @@
 ### Hi everyone 👋
 
 
-- ✨ I’m interested in working on new projects as a fresh fullstack dev 
-- 🌱 I’m currently working on my own projects 
-- 💻  Worked on two MVP: https://book-society-app.herokuapp.com/ (phone app format) and https://apolo-coworking.herokuapp.com/
-- 🤓  I keep learning new tools while practising a lot
-- 🙌  I love to collaborate with amazing people
-- ⚡ Fun fact: I am also a yoga teacher 🧘‍♀️ it helps to get a better focus on my code
-- 🙋‍♀️ Pronouns: she/her
+- ✨   I’m interested in working on new projects as a fresh fullstack dev 
+- 🌱   I’m currently working on my own projects 
+- 💻   Worked on two MVP: https://book-society-app.herokuapp.com/ (phone app format) and https://apolo-coworking.herokuapp.com/
+- 🤓   I keep learning new tools while practising a lot
+- 🙌   I love to collaborate with amazing people
+- ⚡    Fun fact: I am also a yoga teacher 🧘‍♀️ it helps to get a better focus on my code
+- 🙋‍♀️   Pronouns: she/her
 
 <!--
 **Audrey-hello/Audrey-hello** is a ✨ _special_ ✨ repository because its `README‧md` (this file) appears on your GitHub profile.
