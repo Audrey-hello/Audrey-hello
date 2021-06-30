@@ -3,7 +3,7 @@
 
 - ✨   I’m interested in working on new projects as a fresh fullstack dev 
 - 🌱   I’m currently working on my own projects 
-- 💻   Worked on two MVP: https://book-society-app.herokuapp.com/ (phone app format) and https://apolo-coworking.herokuapp.com/
+- 💻   Worked on two MVP: https://www.booksociety.me (phone app format) 
 - 🤓   I keep learning new tools while practicing a lot
 - 🙌   I love to collaborate with amazing people
 - ⚡    Fun fact: I am also a yoga teacher 🧘‍♀️ it helps to get a better focus on my code
